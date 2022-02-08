@@ -6,6 +6,9 @@
 - Mongoose
 
 # Installation and starting server
+
+Use Mongodb online or download and install locally
+
 ``` 
 npm i
 npm run dev
